@@ -1,0 +1,38 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+h1 {
+  color: #F0E68C;
+  background-image: url(../images/pattern.jpeg);
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.green-background {
+  background-color: #76F49B;
+}
+
+.red-background {
+  background-color: #EE7F80;
+}
+
+.blue-background {
+  background-color: #87CEEB;
+}
+
+.blue {
+  color: #1F45F7;
+}
